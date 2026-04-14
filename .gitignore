@@ -1,0 +1,8 @@
+companies/
+*.env
+.env*
+run-log.md
+**/notion-ids.md
+**/brand.md
+**/rules.md
+.DS_Store
