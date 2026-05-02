@@ -6,3 +6,4 @@ run-log.md
 **/brand.md
 **/rules.md
 .DS_Store
+.mcp.json
