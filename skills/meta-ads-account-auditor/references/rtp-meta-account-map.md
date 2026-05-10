@@ -30,8 +30,8 @@ Known campaign history, Notion IDs, and non-negotiable account rules for RTP Ten
 | Dampener CBO (copy) | ShockSorb Dampener | Paused | 22 purchases — best performer |
 | GripSocks campaign | GripSocks | Paused | Separate campaign — audience overlap risk |
 | BOGO Spring 2026 | Bundle | Ended | Zero sales gap after it ended — recovery plan needed |
-| Kmedtest-2024 | Kmedtest | Active (must pause) | $516.72 spend — contaminates RTP pixel |
-| KJM skin brand | Skin product | Active (must pause) | $324.68 spend — contaminates RTP pixel |
+| Kmedtest-2024 | Kmedtest | Paused (confirmed May 8) | $516.72 spend — no longer visible in live API as of 2026-05-08 |
+| KJM skin brand | Skin product | Paused (confirmed May 8) | $324.68 spend — no longer visible in live API as of 2026-05-08 |
 
 ---
 
@@ -62,5 +62,8 @@ Known campaign history, Notion IDs, and non-negotiable account rules for RTP Ten
 | Audit Date | Health Score | Key Issues | Notes |
 |---|---|---|---|
 | 2026-04-06 | 42/100 | Non-RTP campaigns active, budget fragmentation (6 campaigns planned), audience overlap | First audit |
+| 2026-04-19 | 42/100 | Budget fragmentation FAIL · learning phase conflicts FAIL · BOFU + MOFU stagger 4d apart | MOFU pause + budget consolidation recommended |
+| 2026-05-02 | 47/100 | BOFU stuck in learning 24d · Kmedtest active WARNING · IG Engagers still live · TOFU gate missed | Hold May 5 TOFU launch; rebalance BOFU; verify pixel separation |
+| 2026-05-08 | 55/100 | BOFU still in learning (29d, 20 purchases) · TOFU ABO launched (gating condition missed) · cart→checkout 25.6% drop | Fix post-click funnel · increase BOFU budgets to $80/day · TOFU ABO monitoring checkpoint May 14 |
 
 *(Update this log with each audit run)*
